@@ -1,0 +1,26 @@
+{
+    "dependencies": {
+        "sergey": "^0.0.4"
+    },
+    "name": "clone_simplon",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "sergey",
+        "dev": "sergey --watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/farrel2112/clone-simplonline.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/farrel2112/clone-simplonline/issues"
+    },
+    "homepage": "https://github.com/farrel2112/clone-simplonline#readme",
+    "description": ""
+}

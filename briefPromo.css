@@ -1,0 +1,104 @@
+#les-briefs {
+    width: 100%;
+    background-color: #fff;
+    margin-top: 20px;
+    padding: 10px 15px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    padding-top: 15px;
+}
+
+.vertical-container {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 20px 40px;
+    border: 3px solid #f0f0f0;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+#divForm {
+    margin-bottom: 20px;
+    display: block !important;
+}
+
+#divForm h1 {
+    margin-bottom: 20px;
+}
+
+.rendu {
+    background-color: #f0f0f0;
+    border-radius: 30px 30px 30px 30px;
+    -webkit-border-radius: 30px 30px 30px 30px;
+    -moz-border-radius: 30px 30px 30px 30px;
+    -ms-border-radius: 30px 30px 30px 30px;
+    -o-border-radius: 30px 30px 30px 30px;
+    width: 200px;
+    font-size: 15px;
+    text-align: center;
+    height: 30px;
+    line-height: 20px;
+    position: relative;
+    top: -45px;
+    left: -5px;
+}
+
+.vertical img {
+    width: 100%;
+}
+
+.vertical {
+    width: 32%;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    border: 2px solid #f0f0f0;
+    padding: 10px 15px;
+    height: 500px;
+}
+
+#les-briefs h1 {
+    font-size: 20px;
+    line-height: 1.2em;
+}
+
+#les-briefs p {
+    line-height: 1.5em;
+    font-size: 16px;
+}
+
+.vertical button {
+    padding: 15px 25px;
+    background-color: #fff;
+    border: 3px solid #504dc1;
+    color: #504dc1;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.vertical button:hover {
+    box-shadow: 3px 3px 3px #ffd10b;
+    position: relative;
+    top: -3px;
+    left: -3px;
+}
+
+.btn {
+    display: grid;
+    place-content: center;
+}
